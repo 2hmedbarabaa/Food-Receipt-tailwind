@@ -1,0 +1,23 @@
+{
+  "name": "food-receipt-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2hmedbarabaa/Food-Receipt-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2hmedbarabaa/Food-Receipt-tailwind/issues"
+  },
+  "homepage": "https://github.com/2hmedbarabaa/Food-Receipt-tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
